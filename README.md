@@ -1,15 +1,12 @@
-- 👋 Hi, I’m @supersyncro
-- 👀 I’m interested in communications security
-- 🌱 I’m currently learning batch file programming
-- I've invented an unbreakable cryptography program
-- that runs in windows command console as a batch file.
-- It wasn't easy.  Nobody helped.  
-- Problems abounded.  Couldn't get a blan space.
-- Finally figured out arrays.  Then how to import the keys
-- to the program for one time pad capability.  Program generates
-- zero repeate ciphers, no patters, unbreakable.
-- here's a screenshot → https://drive.google.com/file/d/12xUmkzidH0iBEz7EM01z-xTiKGnS1CCd/view
-- 📫 How to reach me ... 931650@gmail.com
+-  Hi, I’m @supersyncro
+-  SuperSonicScientist inventor of Deep Six Com-Sec Console.
+-  The is the Github Repository for the Deep Six Project Downloads.
+-  This Repository is Private
+-  All Files are compressed with 7zip.org with security passwords.
+-  Gumroad.com https://lightbendsdirt.gumroad.com/l/PyWBz   
+-  
+
+- Email to purchase passwords ... 931650@gmail.com Subject DEEP SIX
 
 <!---
 supersyncro/supersyncro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
